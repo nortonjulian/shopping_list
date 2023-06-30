@@ -1,0 +1,17 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {},
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC"
+}
